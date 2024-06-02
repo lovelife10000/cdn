@@ -2,7 +2,7 @@
 LANG=en_US.UTF-8
 
 randNum=$RANDOM
-urlPrefix="https://notdocker.xp.cn"
+urlPrefix="https://raw.githubusercontent.com/lovelife10000/cdn/main"
 wget="wget --no-check-certificate -t 5 "
 
 
